@@ -1,7 +1,7 @@
 # Uber-Data-Visualization
 
 Data storytelling is an important component of machine learning which companies can utilize to understand the background of their operations. Hence, this project uses
-R to manipulate and aggregate the New York City Uber Ride Pickup dataset in order to generate simple and complex graph that can be used to discover patterns and trends.
+R to manipulate and aggregate the New York City Uber Ride Pickup dataset in order to generate simple and complex graphs that can be used to discover patterns and trends.
 
 
 You can find the data visualizations I created below:
